@@ -1,0 +1,6 @@
+!Important
+To run successfully this entire project please enter to the file son_topish_FINAL and run it.
+
+!Diqqat
+Ushbu dasturni muvaffaqiyatli ishga tushurish uchun son_topish_FINAL nomli faylni ochib,
+ishga tushurishingizni so'raymiz.
