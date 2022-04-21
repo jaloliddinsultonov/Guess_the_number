@@ -1,2 +1,2 @@
 # Guess_the_number
-This project is written in Python and it has two versions(English, Uzbek)
+This is a game in which user will compete with computer by trying to guess the number
